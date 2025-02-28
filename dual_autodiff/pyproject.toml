@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools", "wheel", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dual_autodiff"
+dynamic = ["version"]
+description = "A Python package for forward-mode automatic differentiation using dual numbers."
+authors = [
+    { name = "Lewis McConkey", email = "lm2121@cam.ac.uk" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy>=1.21",
+    "pytest>=7.0"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Source" = "https://github.com/Conkey01/dual_autodiff"
+"Issues" = "https://github.com/Conkey01/dual_autodiff/issues"
+
+[tool.setuptools_scm]
+write_to = "dual_autodiff/version.py"
+
+[tool.setuptools.packages.find]
+where = ["."]
