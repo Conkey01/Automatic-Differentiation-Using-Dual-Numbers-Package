@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "Cython", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sub_dual_autodiff_x"
+version = "0.0.1b2" # or whatever you want
+description = "A package"
+
+[tool.setuptools]
+package-dir = {"" = "src"}

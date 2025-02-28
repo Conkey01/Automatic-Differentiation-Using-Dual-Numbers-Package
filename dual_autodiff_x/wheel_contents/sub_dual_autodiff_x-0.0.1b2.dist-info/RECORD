@@ -1,0 +1,13 @@
+sub_dual_autodiff_x/version.cpython-310-darwin.so,sha256=E0jcuLoF7q67DiAE_NIK0IUBz10DKXvkOYL2JNhJt2I,54496
+sub_dual_autodiff_x/corel.cpython-37m-aarch64-linux-gnu.so,sha256=ieGCxwHYEGSdFU7Fg2uVoqK5PPOYBnm78VUNoNfBzIY,118592
+sub_dual_autodiff_x/version.cpython-37m-aarch64-linux-gnu.so,sha256=Ky-7gN085s93IdaVwTaytb6C8ZW1ywHKN7szOcgXB30,118616
+sub_dual_autodiff_x/corel.cpython-310-darwin.so,sha256=J32vWDM_B0T5aW_8APY720Ej8TXF5hDaLMj0EfNC-98,54472
+sub_dual_autodiff_x/core.c,sha256=Ant5RX2CGObzneznuhF17CXQnMNyJocBzW05__u8qdM,154858
+sub_dual_autodiff_x/dual.cpython-37m-aarch64-linux-gnu.so,sha256=l66WQ2sPNjSJk_Tu18xuHdJqTByC017LqNUeB6SZxkg,628784
+sub_dual_autodiff_x/version.c,sha256=xRp_13L3-3-lctd0aBzEgKH4LhVbCHowLuOrQkZdijA,154915
+sub_dual_autodiff_x/dual.cpython-310-darwin.so,sha256=-hGLfgAJ3xLJ3ASDMlUEmMH8-J53NoI2wIske28FtqE,100696
+sub_dual_autodiff_x/dual.c,sha256=V3ESq_TgDGf1WQYwUldyeBhOkilnQ7lFLLnAL6qng8U,403742
+sub_dual_autodiff_x-0.0.1b2.dist-info/METADATA,sha256=4a__bJwXwLpxFg7ociveGqcC_ZpeBNvcrxxUj5JBtyI,85
+sub_dual_autodiff_x-0.0.1b2.dist-info/WHEEL,sha256=9jsgp3F0aAxUY4VBcIJx9mp7MqSh2cemYM7-PW1W5dA,152
+sub_dual_autodiff_x-0.0.1b2.dist-info/top_level.txt,sha256=InB77emaDI9LTzw8mle8gKSk6ZWb4u0PuT9soqJXmhg,20
+sub_dual_autodiff_x-0.0.1b2.dist-info/RECORD,,

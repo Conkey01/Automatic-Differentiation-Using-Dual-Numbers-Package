@@ -1,0 +1,13 @@
+pyproject.toml
+setup.py
+src/sub_dual_autodiff_x/core.c
+src/sub_dual_autodiff_x/corel.cpython-310-darwin.so
+src/sub_dual_autodiff_x/dual.c
+src/sub_dual_autodiff_x/dual.cpython-310-darwin.so
+src/sub_dual_autodiff_x/version.c
+src/sub_dual_autodiff_x/version.cpython-310-darwin.so
+src/sub_dual_autodiff_x.egg-info/PKG-INFO
+src/sub_dual_autodiff_x.egg-info/SOURCES.txt
+src/sub_dual_autodiff_x.egg-info/dependency_links.txt
+src/sub_dual_autodiff_x.egg-info/not-zip-safe
+src/sub_dual_autodiff_x.egg-info/top_level.txt
